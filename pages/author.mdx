@@ -1,0 +1,23 @@
+import ApiPlayground from "@components/ApiPlayground";
+
+# Author API Playground
+
+The API playground is an interactive environment to make requests and preview an API endpoint.
+
+### All Author
+
+<ApiPlayground method="GET" endpoint="author">
+	Tes endpoint `Author`
+</ApiPlayground>
+
+### Single Author by ID
+
+<ApiPlayground method="GET" endpoint="author" param={true} paramName="id">
+	Tes endpoint `author` with `id` as param
+</ApiPlayground>
+
+### Single Author by SLUG
+
+<ApiPlayground method="GET" endpoint="author" param={true} paramName="slug">
+	Tes endpoint `author` with `slug` as param
+</ApiPlayground>
