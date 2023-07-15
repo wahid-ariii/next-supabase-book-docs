@@ -86,7 +86,7 @@ const config = {
   banner: {
     key: 'banner',
     text: (
-      <a href={`${process.env.BASE_URL}/blog/myBook`}>
+      <a href={`${process.env.BASE_URL}/blog/mybook`}>
         🎉 MyBook 1.0 is released. Read more →
       </a>
     )
