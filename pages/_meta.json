@@ -4,9 +4,13 @@
   "logout": "Logout",
   "search": "Search",
   "statistics": "Statistics",
+  "dashboard": "Dashboard",
+  "sitemap": "Sitemap",
   "book": "Book",
   "author": "Author",
   "quote": "Quote",
+  "genre": "Genre",
+  "tag": "Tag",
   "updates": "Updates",
   "blog": {
     "title": "Blog",
