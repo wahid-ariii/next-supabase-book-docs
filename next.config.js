@@ -5,12 +5,12 @@ const withNextra = require('nextra')({
 
 const nextConfig = {
   env: {
-    API_URL: "http://localhost:3000",
-    BASE_URL: "http://localhost:3001",
-    SITE_URL: "localhost:3001",
-    // API_URL: "https://my-bookk.vercel.app",
-    // BASE_URL: "https://my-book-docs.vercel.app",
-    // SITE_URL: "my-book-docs.vercel.app",
+    // API_URL: "http://localhost:3000",
+    // BASE_URL: "http://localhost:3001",
+    // SITE_URL: "localhost:3001",
+    API_URL: "https://my-bookk.vercel.app",
+    BASE_URL: "https://my-book-docs.vercel.app",
+    SITE_URL: "my-book-docs.vercel.app",
   }
 };
 
