@@ -13,7 +13,7 @@ export default function CodeGroup({
 }) {
 	return (
 		<Tab.Group as="div" className="req-res my-4">
-			<Tab.List className="flex items-center relative bg-blue-100/70 dark:bg-neutral-800/75 rounded-t overflow-auto">
+			<Tab.List className="flex items-center relative bg-orange-100/70 dark:bg-neutral-800/75 rounded-t overflow-auto">
 				<AnimateSharedLayout>
 					{items.map((item, index) => (
 						<Tab
@@ -34,7 +34,7 @@ export default function CodeGroup({
 									{item}
 									{selected && (
 										<motion.div
-											className="absolute left-0 right-0 z-10 rounded-full h-[2px] bottom-0 border-b-2 border-b-sky-500"
+											className="absolute left-0 right-0 z-10 rounded-full h-[2px] bottom-0 border-b-2 border-b-orange-500"
 											layoutId="underline"
 											initial={false}
 										/>

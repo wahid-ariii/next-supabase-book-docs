@@ -5541,7 +5541,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n\t\"username\": \"develop\",\r\n\t\"password\": \"password\"\r\n}",
+					"raw": "{\r\n\t\"username\": \"develop\",\r\n\t\"password\": \"\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
