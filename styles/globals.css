@@ -26,6 +26,11 @@ hr {
 	@apply border-neutral-200 dark:border-neutral-800 !important;
 }
 
+/* Breadcrumb  */
+div.nextra-breadcrumb > div {
+	@apply px-0.5 rounded;
+}
+
 /* Separator */
 /* https://nextra.site/docs/docs-theme/theme-configuration#customize-sidebar-content */
 /* https://nextra.site/docs/docs-theme/page-configuration#separators */
@@ -46,9 +51,24 @@ aside > div > ul > li:not(.active) > a {
 	@apply dark:text-neutral-400;
 }
 
-/* Sidemenu item*/
-aside > div > ul > li > div.nx-transform-gpu > div.nx-transform-gpu > ul > li:not(.active) > a {
+/* Sidemenu link item*/
+aside.nextra-sidebar-container > div > div.nx-transform-gpu > div.nx-transition-opacity > ul > li > a {
+	@apply dark:text-neutral-400 dark:hover:text-neutral-100 mx-0.5 mt-[3px];
+}
+
+/* Sidemenu button item*/
+aside.nextra-sidebar-container > div > div.nx-transform-gpu > div.nx-transition-opacity > ul > li:has(button) {
+	@apply dark:text-neutral-400 dark:hover:text-neutral-100 ml-0.5 mt-[3px] pb-1 mr-0.5;
+}
+
+/* Sidemenu collapsible item*/
+aside.nextra-sidebar-container > div > div.nx-transform-gpu > div.nx-transition-opacity > ul > li.open > div > div > ul > li {
 	@apply dark:text-neutral-400 dark:hover:text-neutral-100 mr-1;
+}
+
+/* Sidemenu collapsible last item*/
+aside.nextra-sidebar-container > div > div.nx-transform-gpu > div.nx-transition-opacity > ul > li.open > div {
+	@apply pb-1;
 }
 
 /* Menu item mobile*/

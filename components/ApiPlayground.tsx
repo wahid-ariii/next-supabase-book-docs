@@ -1,62 +1,72 @@
 import { useState, ReactNode } from "react";
 import cn from "clsx";
 import axios from "axios";
-import formatHighlight from 'json-format-highlight';
+import formatHighlight from "json-format-highlight";
 
 function MethodBadge(method: string) {
-  let color = 'text-red-600 bg-red-200 border border-red-500'
-  if (method == "POST") color = 'text-blue-600 bg-blue-200 border border-blue-500'
-  if (method == "GET") color = 'text-green-600 bg-green-200 border border-green-500'
-  if (method == "PUT") color = 'text-orange-600 bg-orange-200 border border-orange-500'
-  if (method == "PATCH") color = 'text-yellow-500 bg-yellow-200 border border-yellow-500'
+	let color = "text-red-600 bg-red-200 border border-red-500";
+	if (method == "POST")
+		color = "text-blue-600 bg-blue-200 border border-blue-500";
+	if (method == "GET")
+		color = "text-green-600 bg-green-200 border border-green-500";
+	if (method == "PUT")
+		color = "text-orange-600 bg-orange-200 border border-orange-500";
+	if (method == "PATCH")
+		color = "text-yellow-500 bg-yellow-200 border border-yellow-500";
 
-  return (
-    <div className={`font-medium px-1.5 rounded-lg ${color}`}>
-      {method}
-    </div>
-  )
+	return (
+		<div className={`font-medium px-1.5 rounded-lg ${color}`}>{method}</div>
+	);
 }
 
 type Props = {
-  method?: string;
-  endpoint?: string;
-  children?: ReactNode;
-  param?: boolean;
-  paramName?: string;
-}
+	method?: string;
+	endpoint?: string;
+	children?: ReactNode;
+	param?: boolean;
+	paramName?: string;
+};
 
-export default function ApiPlayground({ method, endpoint, children, param = false, paramName = "Param" }: Props) {
-  const [fetched, setFetched] = useState(false)
-  const [data, setData] = useState()
-  const [loading, setLoading] = useState(false)
-  const [value, setValue] = useState("")
-  const methodUpperCase = method.toUpperCase()
+export default function ApiPlayground({
+	method,
+	endpoint,
+	children,
+	param = false,
+	paramName = "Param",
+}: Props) {
+	const [fetched, setFetched] = useState(false);
+	const [data, setData] = useState();
+	const [loading, setLoading] = useState(false);
+	const [value, setValue] = useState("");
+	const methodUpperCase = method.toUpperCase();
 
-  async function handleFetch() {
-    setLoading(true)
-    setFetched(false)
-    try {
-      const res = await axios.get(`${process.env.API_URL}/api/${endpoint}`, { params: { [paramName]: value } })
-      setData(res.data)
-    } catch (error) {
-      setData(error.response?.data)
-      console.error(error)
-    } finally {
-      setFetched(true)
-      setLoading(false)
-    }
-  }
+	async function handleFetch() {
+		setLoading(true);
+		setFetched(false);
+		try {
+			const res = await axios.get(`${process.env.API_URL}/api/${endpoint}`, {
+				params: { [paramName]: value },
+			});
+			setData(res.data);
+		} catch (error) {
+			setData(error.response?.data);
+			console.error(error);
+		} finally {
+			setFetched(true);
+			setLoading(false);
+		}
+	}
 
-  const colorOptions = {
-    keyColor: '#65a30d',
-    numberColor: '#f59e0b',
-    stringColor: '#10b891',
-    trueColor: '#0284c7',
-    falseColor: '#6366f1',
-    nullColor: '#ef4444'
-  };
+	const colorOptions = {
+		keyColor: "#65a30d",
+		numberColor: "#f59e0b",
+		stringColor: "#10b891",
+		trueColor: "#0284c7",
+		falseColor: "#6366f1",
+		nullColor: "#ef4444",
+	};
 
-  return (
+	return (
 		<div className="border dark:border-neutral-800 p-4 rounded-md mt-8">
 			<div className={`flex items-center gap-4 ${param ? "-mb-2" : "mb-4"}`}>
 				{MethodBadge(methodUpperCase)}
@@ -106,7 +116,7 @@ export default function ApiPlayground({ method, endpoint, children, param = fals
 				onClick={handleFetch}
 				className={cn(
 					"flex items-center gap-2 text-sm font-medium px-2.5 py-1",
-					"transition-all duration-300 text-white rounded",
+					"transition-all duration-300 text-white rounded disabled:cursor-not-allowed",
 					"focus-visible:!outline-none focus-visible:!ring focus-visible:!ring-green-500 focus-visible:ring-offset-0",
 					children !== undefined ? "mt-4" : "mt-8",
 					methodUpperCase == "GET" ? "bg-green-600 hover:bg-green-700" : "",
@@ -115,15 +125,39 @@ export default function ApiPlayground({ method, endpoint, children, param = fals
 					methodUpperCase == "PATCH" ? "bg-yellow-500 hover:bg-yellow-600" : "",
 					methodUpperCase == "DELETE" ? "bg-red-600 hover:bg-red-700" : ""
 				)}
+				disabled={loading}
 			>
-				<svg
-					className="fill-white h-3"
-					xmlns="http://www.w3.org/2000/svg"
-					viewBox="0 0 384 512"
-				>
-					<path d="M361 215C375.3 223.8 384 239.3 384 256C384 272.7 375.3 288.2 361 296.1L73.03 472.1C58.21 482 39.66 482.4 24.52 473.9C9.377 465.4 0 449.4 0 432V80C0 62.64 9.377 46.63 24.52 38.13C39.66 29.64 58.21 29.99 73.03 39.04L361 215z"></path>
-				</svg>
-				{loading ? "Sending Request..." : "Send Request"}
+				{loading ? (
+					<svg
+						className="animate-spin h-4 w-4 text-white"
+						xmlns="http://www.w3.org/2000/svg"
+						fill="none"
+						viewBox="0 0 24 24"
+					>
+						<circle
+							className="opacity-25"
+							cx="12"
+							cy="12"
+							r="10"
+							stroke="currentColor"
+							stroke-width="4"
+						></circle>
+						<path
+							className="opacity-75"
+							fill="currentColor"
+							d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+						></path>
+					</svg>
+				) : (
+					<svg
+						className="fill-white h-3"
+						xmlns="http://www.w3.org/2000/svg"
+						viewBox="0 0 384 512"
+					>
+						<path d="M361 215C375.3 223.8 384 239.3 384 256C384 272.7 375.3 288.2 361 296.1L73.03 472.1C58.21 482 39.66 482.4 24.52 473.9C9.377 465.4 0 449.4 0 432V80C0 62.64 9.377 46.63 24.52 38.13C39.66 29.64 58.21 29.99 73.03 39.04L361 215z"></path>
+					</svg>
+				)}
+				{loading ? "Sending Request" : "Send Request"}
 			</button>
 
 			{fetched ? (

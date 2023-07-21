@@ -43,8 +43,8 @@ export default function Param({
 							{name}
 						</span>
 						{required && (
-							<span className="text-neutral-500 dark:text-neutral-300">
-								Required
+							<span className="text-red-500 dark:text-red-500 font-semibold">
+								*Required
 							</span>
 						)}
 						{optional && (
