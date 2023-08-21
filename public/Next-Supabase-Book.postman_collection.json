@@ -6247,6 +6247,289 @@
 					"body": "{\n    \"authors\": [\n        {\n            \"slug\": \"suzanne-collins\"\n        },\n        {\n            \"slug\": \"jk-rowling\"\n        },\n        {\n            \"slug\": \"jane-austen\"\n        },\n        {\n            \"slug\": \"harper-lee\"\n        },\n        {\n            \"slug\": \"markus-zusak\"\n        },\n        {\n            \"slug\": \"stephenie-meyer\"\n        },\n        {\n            \"slug\": \"george-orwell\"\n        },\n        {\n            \"slug\": \"jrr-tolkien\"\n        },\n        {\n            \"slug\": \"cs-lewis\"\n        },\n        {\n            \"slug\": \"john-green\"\n        },\n        {\n            \"slug\": \"margaret-mitchell\"\n        },\n        {\n            \"slug\": \"shel-silverstein\"\n        },\n        {\n            \"slug\": \"oscar-wilde\"\n        },\n        {\n            \"slug\": \"emily-bronte\"\n        },\n        {\n            \"slug\": \"charlotte-bronte\"\n        },\n        {\n            \"slug\": \"stephen-chbosky\"\n        },\n        {\n            \"slug\": \"dan-brown\"\n        },\n        {\n            \"slug\": \"f-scott-fitzgerald\"\n        },\n        {\n            \"slug\": \"lewis-carroll\"\n        },\n        {\n            \"slug\": \"antoine-de-saint-exupery\"\n        },\n        {\n            \"slug\": \"arthur-golden\"\n        },\n        {\n            \"slug\": \"rick-riordan\"\n        },\n        {\n            \"slug\": \"veronica-roth\"\n        },\n        {\n            \"slug\": \"victor-hugo\"\n        },\n        {\n            \"slug\": \"fyodor-dostoevsky\"\n        },\n        {\n            \"slug\": \"william-golding\"\n        },\n        {\n            \"slug\": \"william-shakespeare\"\n        },\n        {\n            \"slug\": \"lm-montgomery\"\n        },\n        {\n            \"slug\": \"cassandra-clare\"\n        },\n        {\n            \"slug\": \"douglas-adams\"\n        },\n        {\n            \"slug\": \"kathryn-stockett\"\n        },\n        {\n            \"slug\": \"orson-scott-card\"\n        },\n        {\n            \"slug\": \"eb-white\"\n        },\n        {\n            \"slug\": \"bram-stoker\"\n        },\n        {\n            \"slug\": \"john-steinbeck\"\n        },\n        {\n            \"slug\": \"paulo-coelho\"\n        },\n        {\n            \"slug\": \"jd-salinger\"\n        },\n        {\n            \"slug\": \"aldous-huxley\"\n        },\n        {\n            \"slug\": \"ray-bradbury\"\n        },\n        {\n            \"slug\": \"audrey-niffenegger\"\n        },\n        {\n            \"slug\": \"khaled-hosseini\"\n        },\n        {\n            \"slug\": \"william-goldman\"\n        },\n        {\n            \"slug\": \"george-rr-martin\"\n        },\n        {\n            \"slug\": \"se-hinton\"\n        },\n        {\n            \"slug\": \"madeleine-lengle\"\n        },\n        {\n            \"slug\": \"homer\"\n        },\n        {\n            \"slug\": \"louisa-may-alcott\"\n        },\n        {\n            \"slug\": \"mark-twain\"\n        },\n        {\n            \"slug\": \"alice-sebold\"\n        },\n        {\n            \"slug\": \"maurice-sendak\"\n        },\n        {\n            \"slug\": \"mary-wollstonecraft-shelley\"\n        },\n        {\n            \"slug\": \"dr-seuss\"\n        },\n        {\n            \"slug\": \"yann-martel\"\n        },\n        {\n            \"slug\": \"charles-dickens\"\n        },\n        {\n            \"slug\": \"margaret-atwood\"\n        },\n        {\n            \"slug\": \"lois-lowry\"\n        },\n        {\n            \"slug\": \"vladimir-nabokov\"\n        },\n        {\n            \"slug\": \"sara-gruen\"\n        },\n        {\n            \"slug\": \"kurt-vonnegut-jr\"\n        },\n        {\n            \"slug\": \"frank-herbert\"\n        },\n        {\n            \"slug\": \"stephen-king\"\n        },\n        {\n            \"slug\": \"joseph-heller\"\n        },\n        {\n            \"slug\": \"sylvia-plath\"\n        },\n        {\n            \"slug\": \"roald-dahl\"\n        },\n        {\n            \"slug\": \"ken-follett\"\n        },\n        {\n            \"slug\": \"arthur-conan-doyle\"\n        },\n        {\n            \"slug\": \"richard-adams\"\n        },\n        {\n            \"slug\": \"daphne-du-maurier\"\n        },\n        {\n            \"slug\": \"stieg-larsson\"\n        },\n        {\n            \"slug\": \"diana-gabaldon\"\n        },\n        {\n            \"slug\": \"ken-kesey\"\n        },\n        {\n            \"slug\": \"alice-walker\"\n        },\n        {\n            \"slug\": \"jodi-picoult\"\n        },\n        {\n            \"slug\": \"leo-tolstoy\"\n        },\n        {\n            \"slug\": \"betty-smith\"\n        },\n        {\n            \"slug\": \"anthony-burgess\"\n        },\n        {\n            \"slug\": \"cormac-mccarthy\"\n        },\n        {\n            \"slug\": \"frank-mccourt\"\n        },\n        {\n            \"slug\": \"richelle-mead\"\n        },\n        {\n            \"slug\": \"hermann-hesse\"\n        },\n        {\n            \"slug\": \"philip-pullman\"\n        },\n        {\n            \"slug\": \"agatha-christie\"\n        },\n        {\n            \"slug\": \"edgar-allan-poe\"\n        },\n        {\n            \"slug\": \"barbara-kingsolver\"\n        },\n        {\n            \"slug\": \"anne-rice\"\n        },\n        {\n            \"slug\": \"miguel-de-cervantes-saavedra\"\n        },\n        {\n            \"slug\": \"ernest-hemingway\"\n        },\n        {\n            \"slug\": \"ayn-rand\"\n        },\n        {\n            \"slug\": \"nicholas-sparks\"\n        },\n        {\n            \"slug\": \"aa-milne\"\n        },\n        {\n            \"slug\": \"herman-melville\"\n        },\n        {\n            \"slug\": \"john-irving\"\n        },\n        {\n            \"slug\": \"sue-monk-kidd\"\n        },\n        {\n            \"slug\": \"anita-diamant\"\n        },\n        {\n            \"slug\": \"albert-camus\"\n        },\n        {\n            \"slug\": \"patrick-rothfuss\"\n        },\n        {\n            \"slug\": \"mikhail-bulgakov\"\n        },\n        {\n            \"slug\": \"daniel-keyes\"\n        },\n        {\n            \"slug\": \"franz-kafka\"\n        },\n        {\n            \"slug\": \"jeffrey-eugenides\"\n        },\n        {\n            \"slug\": \"christopher-paolini\"\n        },\n        {\n            \"slug\": \"mark-haddon\"\n        },\n        {\n            \"slug\": \"eric-carle\"\n        },\n        {\n            \"slug\": \"carlos-ruiz-zafon\"\n        },\n        {\n            \"slug\": \"mitch-albom\"\n        },\n        {\n            \"slug\": \"alexandre-dumas\"\n        },\n        {\n            \"slug\": \"jack-kerouac\"\n        },\n        {\n            \"slug\": \"milan-kundera\"\n        },\n        {\n            \"slug\": \"umberto-eco\"\n        },\n        {\n            \"slug\": \"mario-puzo\"\n        },\n        {\n            \"slug\": \"wilson-rawls\"\n        },\n        {\n            \"slug\": \"truman-capote\"\n        },\n        {\n            \"slug\": \"nathaniel-hawthorne\"\n        },\n        {\n            \"slug\": \"louis-sachar\"\n        },\n        {\n            \"slug\": \"chuck-palahniuk\"\n        },\n        {\n            \"slug\": \"patrick-suskind\"\n        },\n        {\n            \"slug\": \"neil-gaiman\"\n        },\n        {\n            \"slug\": \"becca-fitzpatrick\"\n        },\n        {\n            \"slug\": \"dante-alighieri\"\n        },\n        {\n            \"slug\": \"alan-moore\"\n        },\n        {\n            \"slug\": \"larry-mcmurtry\"\n        },\n        {\n            \"slug\": \"laura-ingalls-wilder\"\n        },\n        {\n            \"slug\": \"erich-maria-remarque\"\n        },\n        {\n            \"slug\": \"jm-barrie\"\n        },\n        {\n            \"slug\": \"terry-pratchett\"\n        },\n        {\n            \"slug\": \"jerry-weaver\"\n        },\n        {\n            \"slug\": \"gabriel-garcia-marquez\"\n        },\n        {\n            \"slug\": \"colleen-mccullough\"\n        },\n        {\n            \"slug\": \"adam-long\"\n        },\n        {\n            \"slug\": \"zora-neale-hurston\"\n        },\n        {\n            \"slug\": \"l-frank-baum\"\n        },\n        {\n            \"slug\": \"elizabeth-gilbert\"\n        },\n        {\n            \"slug\": \"ian-mcewan\"\n        },\n        {\n            \"slug\": \"margaret-wise-brown\"\n        },\n        {\n            \"slug\": \"leigh-bardugo\"\n        },\n        {\n            \"slug\": \"james-dashner\"\n        },\n        {\n            \"slug\": \"shirley-jackson\"\n        },\n        {\n            \"slug\": \"thomas-hardy\"\n        },\n        {\n            \"slug\": \"joseph-conrad\"\n        },\n        {\n            \"slug\": \"kahlil-gibran\"\n        },\n        {\n            \"slug\": \"katherine-paterson\"\n        },\n        {\n            \"slug\": \"pearl-s-buck\"\n        },\n        {\n            \"slug\": \"jack-london\"\n        },\n        {\n            \"slug\": \"jane-carruth\"\n        },\n        {\n            \"slug\": \"amy-tan\"\n        },\n        {\n            \"slug\": \"sarah-j-maas\"\n        },\n        {\n            \"slug\": \"marion-zimmer-bradley\"\n        },\n        {\n            \"slug\": \"norton-juster\"\n        },\n        {\n            \"slug\": \"thomas-harris\"\n        },\n        {\n            \"slug\": \"gustave-flaubert\"\n        },\n        {\n            \"slug\": \"richard-bach\"\n        },\n        {\n            \"slug\": \"robert-louis-stevenson\"\n        },\n        {\n            \"slug\": \"michael-ende\"\n        },\n        {\n            \"slug\": \"james-joyce\"\n        },\n        {\n            \"slug\": \"erin-morgenstern\"\n        },\n        {\n            \"slug\": \"kiera-cass\"\n        },\n        {\n            \"slug\": \"el-james\"\n        },\n        {\n            \"slug\": \"donna-tartt\"\n        },\n        {\n            \"slug\": \"john-boyne\"\n        },\n        {\n            \"slug\": \"jean-m-auel\"\n        },\n        {\n            \"slug\": \"geoffrey-chaucer\"\n        },\n        {\n            \"slug\": \"michael-crichton\"\n        },\n        {\n            \"slug\": \"toni-morrison\"\n        },\n        {\n            \"slug\": \"jay-asher\"\n        },\n        {\n            \"slug\": \"sergio-cobo\"\n        },\n        {\n            \"slug\": \"anne-frank\"\n        },\n        {\n            \"slug\": \"frances-hodgson-burnett\"\n        },\n        {\n            \"slug\": \"gregory-maguire\"\n        },\n        {\n            \"slug\": \"madeline-miller\"\n        },\n        {\n            \"slug\": \"james-clavell\"\n        },\n        {\n            \"slug\": \"thomas-keneally\"\n        },\n        {\n            \"slug\": \"johnathon-nicolaou\"\n        },\n        {\n            \"slug\": \"jonathan-safran-foer\"\n        },\n        {\n            \"slug\": \"margery-williams-bianco\"\n        },\n        {\n            \"slug\": \"philippa-gregory\"\n        },\n        {\n            \"slug\": \"lauren-kate\"\n        },\n        {\n            \"slug\": \"marissa-meyer\"\n        },\n        {\n            \"slug\": \"john-kennedy-toole\"\n        },\n        {\n            \"slug\": \"ki-longfellow\"\n        },\n        {\n            \"slug\": \"viktor-e-frankl\"\n        },\n        {\n            \"slug\": \"arthur-miller\"\n        },\n        {\n            \"slug\": \"gillian-flynn\"\n        },\n        {\n            \"slug\": \"arundhati-roy\"\n        },\n        {\n            \"slug\": \"kenneth-grahame\"\n        },\n        {\n            \"slug\": \"corrie-ten-boom\"\n        },\n        {\n            \"slug\": \"diana-wynne-jones\"\n        },\n        {\n            \"slug\": \"tracy-chevalier\"\n        },\n        {\n            \"slug\": \"gaston-leroux\"\n        },\n        {\n            \"slug\": \"jose-saramago\"\n        },\n        {\n            \"slug\": \"scott-westerfeld\"\n        },\n        {\n            \"slug\": \"haruki-murakami\"\n        },\n        {\n            \"slug\": \"gail-carson-levine\"\n        },\n        {\n            \"slug\": \"wally-lamb\"\n        },\n        {\n            \"slug\": \"john-grogan\"\n        },\n        {\n            \"slug\": \"maggie-stiefvater\"\n        },\n        {\n            \"slug\": \"isabel-allende\"\n        },\n        {\n            \"slug\": \"mary-ann-shaffer\"\n        },\n        {\n            \"slug\": \"william-paul-young\"\n        },\n        {\n            \"slug\": \"william-faulkner\"\n        },\n        {\n            \"slug\": \"hunter-s-thompson\"\n        },\n        {\n            \"slug\": \"pc-cast\"\n        },\n        {\n            \"slug\": \"bill-watterson\"\n        },\n        {\n            \"slug\": \"laurie-halse-anderson\"\n        },\n        {\n            \"slug\": \"alex-haley\"\n        },\n        {\n            \"slug\": \"robert-a-heinlein\"\n        },\n        {\n            \"slug\": \"scott-odell\"\n        },\n        {\n            \"slug\": \"jon-krakauer\"\n        },\n        {\n            \"slug\": \"tim-butcher\"\n        },\n        {\n            \"slug\": \"cornelia-funke\"\n        },\n        {\n            \"slug\": \"taylor-jenkins-reid\"\n        },\n        {\n            \"slug\": \"jamie-mcguire\"\n        },\n        {\n            \"slug\": \"lauren-oliver\"\n        },\n        {\n            \"slug\": \"janet-fitch\"\n        },\n        {\n            \"slug\": \"harriet-beecher-stowe\"\n        },\n        {\n            \"slug\": \"ralph-ellison\"\n        },\n        {\n            \"slug\": \"th-white\"\n        },\n        {\n            \"slug\": \"albert-einstein\"\n        },\n        {\n            \"slug\": \"frank-zappa\"\n        },\n        {\n            \"slug\": \"marcus-tullius-cicero\"\n        },\n        {\n            \"slug\": \"bernard-m-baruch\"\n        },\n        {\n            \"slug\": \"william-w-purkey\"\n        },\n        {\n            \"slug\": \"mae-west\"\n        },\n        {\n            \"slug\": \"mahatma-gandhi\"\n        },\n        {\n            \"slug\": \"robert-frost\"\n        },\n        {\n            \"slug\": \"maya-angelou\"\n        },\n        {\n            \"slug\": \"elbert-hubbard\"\n        },\n        {\n            \"slug\": \"martin-luther-king-jr\"\n        },\n        {\n            \"slug\": \"friedrich-nietzsche\"\n        },\n        {\n            \"slug\": \"ralph-waldo-emerson\"\n        },\n        {\n            \"slug\": \"andre-gide\"\n        },\n        {\n            \"slug\": \"h-jackson-brown-jr\"\n        },\n        {\n            \"slug\": \"bob-marley\"\n        },\n        {\n            \"slug\": \"marilyn-monroe\"\n        },\n        {\n            \"slug\": \"maurice-switzer\"\n        },\n        {\n            \"slug\": \"allen-saunders\"\n        },\n        {\n            \"slug\": \"bill-keane\"\n        },\n        {\n            \"slug\": \"thomas-a-edison\"\n        },\n        {\n            \"slug\": \"elie-wiesel\"\n        },\n        {\n            \"slug\": \"eleanor-roosevelt\"\n        },\n        {\n            \"slug\": \"pablo-neruda\"\n        },\n        {\n            \"slug\": \"groucho-marx\"\n        },\n        {\n            \"slug\": \"steve-martin\"\n        },\n        {\n            \"slug\": \"lao-tzu\"\n        },\n        {\n            \"slug\": \"kent-m-keith\"\n        },\n        {\n            \"slug\": \"george-eliot\"\n        },\n        {\n            \"slug\": \"mother-teresa\"\n        },\n        {\n            \"slug\": \"sarah-dessen\"\n        },\n        {\n            \"slug\": \"garrison-keillor\"\n        },\n        {\n            \"slug\": \"pablo-picasso\"\n        },\n        {\n            \"slug\": \"anais-nin\"\n        },\n        {\n            \"slug\": \"charles-m-schulz\"\n        },\n        {\n            \"slug\": \"george-bernard-shaw\"\n        },\n        {\n            \"slug\": \"jim-henson\"\n        },\n        {\n            \"slug\": \"abraham-lincoln\"\n        },\n        {\n            \"slug\": \"winston-s-churchill\"\n        },\n        {\n            \"slug\": \"helen-keller\"\n        },\n        {\n            \"slug\": \"charles-bukowski\"\n        },\n        {\n            \"slug\": \"anais-nin-258\"\n        },\n        {\n            \"slug\": \"alexandre-dumas-fils\"\n        },\n        {\n            \"slug\": \"robert-fulghum\"\n        },\n        {\n            \"slug\": \"walter-m-miller-jr\"\n        },\n        {\n            \"slug\": \"alfred-tennyson\"\n        },\n        {\n            \"slug\": \"virginia-woolf\"\n        },\n        {\n            \"slug\": \"jess-c-scott\"\n        },\n        {\n            \"slug\": \"george-carlin\"\n        },\n        {\n            \"slug\": \"benjamin-franklin-wade\"\n        },\n        {\n            \"slug\": \"john-lennon\"\n        },\n        {\n            \"slug\": \"wc-fields\"\n        },\n        {\n            \"slug\": \"kurt-vonnegut\"\n        },\n        {\n            \"slug\": \"marianne-williamson\"\n        },\n        {\n            \"slug\": \"jimi-hendrix\"\n        },\n        {\n            \"slug\": \"aristotle\"\n        },\n        {\n            \"slug\": \"alfred-lord-tennyson\"\n        },\n        {\n            \"slug\": \"charles-j-sykes\"\n        },\n        {\n            \"slug\": \"socrates\"\n        },\n        {\n            \"slug\": \"nicolas-chamfort\"\n        },\n        {\n            \"slug\": \"henri-nouwen\"\n        },\n        {\n            \"slug\": \"charles-w-eliot\"\n        },\n        {\n            \"slug\": \"markus-herz\"\n        },\n        {\n            \"slug\": \"isaac-asimov\"\n        },\n        {\n            \"slug\": \"william-styron\"\n        },\n        {\n            \"slug\": \"lemony-snicket\"\n        },\n        {\n            \"slug\": \"cem-joad\"\n        },\n        {\n            \"slug\": \"lisa-kleypas\"\n        },\n        {\n            \"slug\": \"rita-mae-brown\"\n        },\n        {\n            \"slug\": \"laurel-thatcher-ulrich\"\n        },\n        {\n            \"slug\": \"henry-wadsworth-longfellow\"\n        },\n        {\n            \"slug\": \"marlene-dietrich\"\n        }\n    ],\n    \"books\": [\n        {\n            \"slug\": \"the-hunger-games\"\n        },\n        {\n            \"slug\": \"harry-potter-and-the-order-of-the-phoenix\"\n        },\n        {\n            \"slug\": \"pride-and-prejudice\"\n        },\n        {\n            \"slug\": \"to-kill-a-mockingbird\"\n        },\n        {\n            \"slug\": \"the-book-thief\"\n        },\n        {\n            \"slug\": \"twilight\"\n        },\n        {\n            \"slug\": \"animal-farm\"\n        },\n        {\n            \"slug\": \"jrr-tolkien-4-book-boxed-set-the-hobbit-and-the-lord-of-the-rings\"\n        },\n        {\n            \"slug\": \"the-chronicles-of-narnia\"\n        },\n        {\n            \"slug\": \"the-fault-in-our-stars\"\n        },\n        {\n            \"slug\": \"gone-with-the-wind\"\n        },\n        {\n            \"slug\": \"the-giving-tree\"\n        },\n        {\n            \"slug\": \"the-picture-of-dorian-gray\"\n        },\n        {\n            \"slug\": \"wuthering-heights\"\n        },\n        {\n            \"slug\": \"harry-potter-and-the-philosophers-stone\"\n        },\n        {\n            \"slug\": \"jane-eyre\"\n        },\n        {\n            \"slug\": \"the-perks-of-being-a-wallflower\"\n        },\n        {\n            \"slug\": \"the-da-vinci-code\"\n        },\n        {\n            \"slug\": \"the-great-gatsby\"\n        },\n        {\n            \"slug\": \"alices-adventures-in-wonderland-through-the-looking-glass\"\n        },\n        {\n            \"slug\": \"the-little-prince\"\n        },\n        {\n            \"slug\": \"memoirs-of-a-geisha\"\n        },\n        {\n            \"slug\": \"the-lightning-thief\"\n        },\n        {\n            \"slug\": \"divergent\"\n        },\n        {\n            \"slug\": \"les-miserables\"\n        },\n        {\n            \"slug\": \"crime-and-punishment\"\n        },\n        {\n            \"slug\": \"lord-of-the-flies\"\n        },\n        {\n            \"slug\": \"romeo-and-juliet\"\n        },\n        {\n            \"slug\": \"anne-of-green-gables\"\n        },\n        {\n            \"slug\": \"city-of-bones\"\n        },\n        {\n            \"slug\": \"the-hitchhikers-guide-to-the-galaxy\"\n        },\n        {\n            \"slug\": \"the-help\"\n        },\n        {\n            \"slug\": \"enders-game\"\n        },\n        {\n            \"slug\": \"charlottes-web\"\n        },\n        {\n            \"slug\": \"dracula\"\n        },\n        {\n            \"slug\": \"of-mice-and-men\"\n        },\n        {\n            \"slug\": \"the-alchemist\"\n        },\n        {\n            \"slug\": \"the-catcher-in-the-rye\"\n        },\n        {\n            \"slug\": \"brave-new-world\"\n        },\n        {\n            \"slug\": \"one-hundred-years-of-solitude\"\n        },\n        {\n            \"slug\": \"fahrenheit-451\"\n        },\n        {\n            \"slug\": \"the-time-travelers-wife\"\n        },\n        {\n            \"slug\": \"a-thousand-splendid-suns\"\n        },\n        {\n            \"slug\": \"the-princess-bride\"\n        },\n        {\n            \"slug\": \"the-secret-garden\"\n        },\n        {\n            \"slug\": \"a-game-of-thrones\"\n        },\n        {\n            \"slug\": \"the-outsiders\"\n        },\n        {\n            \"slug\": \"a-wrinkle-in-time\"\n        },\n        {\n            \"slug\": \"the-odyssey\"\n        },\n        {\n            \"slug\": \"little-women\"\n        },\n        {\n            \"slug\": \"1984\"\n        },\n        {\n            \"slug\": \"the-adventures-of-huckleberry-finn\"\n        },\n        {\n            \"slug\": \"the-lovely-bones\"\n        },\n        {\n            \"slug\": \"the-kite-runner\"\n        },\n        {\n            \"slug\": \"where-the-wild-things-are\"\n        },\n        {\n            \"slug\": \"frankenstein-the-1818-text\"\n        },\n        {\n            \"slug\": \"green-eggs-and-ham\"\n        },\n        {\n            \"slug\": \"life-of-pi\"\n        },\n        {\n            \"slug\": \"a-tale-of-two-cities\"\n        },\n        {\n            \"slug\": \"the-handmaids-tale\"\n        },\n        {\n            \"slug\": \"harry-potter-and-the-deathly-hallows\"\n        },\n        {\n            \"slug\": \"the-giver\"\n        },\n        {\n            \"slug\": \"lolita\"\n        },\n        {\n            \"slug\": \"water-for-elephants\"\n        },\n        {\n            \"slug\": \"slaughterhouse-five\"\n        },\n        {\n            \"slug\": \"dune\"\n        },\n        {\n            \"slug\": \"harry-potter-and-the-prisoner-of-azkaban\"\n        },\n        {\n            \"slug\": \"the-stand\"\n        },\n        {\n            \"slug\": \"catch-22\"\n        },\n        {\n            \"slug\": \"the-bell-jar\"\n        },\n        {\n            \"slug\": \"matilda\"\n        },\n        {\n            \"slug\": \"the-pillars-of-the-earth\"\n        },\n        {\n            \"slug\": \"the-adventures-of-sherlock-holmes\"\n        },\n        {\n            \"slug\": \"watership-down\"\n        },\n        {\n            \"slug\": \"great-expectations\"\n        },\n        {\n            \"slug\": \"rebecca\"\n        },\n        {\n            \"slug\": \"the-girl-with-the-dragon-tattoo\"\n        },\n        {\n            \"slug\": \"outlander\"\n        },\n        {\n            \"slug\": \"one-flew-over-the-cuckoos-nest\"\n        },\n        {\n            \"slug\": \"the-color-purple\"\n        },\n        {\n            \"slug\": \"my-sisters-keeper\"\n        },\n        {\n            \"slug\": \"the-fellowship-of-the-ring\"\n        },\n        {\n            \"slug\": \"anna-karenina\"\n        },\n        {\n            \"slug\": \"the-brothers-karamazov\"\n        },\n        {\n            \"slug\": \"a-tree-grows-in-brooklyn\"\n        },\n        {\n            \"slug\": \"a-clockwork-orange\"\n        },\n        {\n            \"slug\": \"the-road\"\n        },\n        {\n            \"slug\": \"angelas-ashes\"\n        },\n        {\n            \"slug\": \"vampire-academy\"\n        },\n        {\n            \"slug\": \"siddhartha\"\n        },\n        {\n            \"slug\": \"the-golden-compass\"\n        },\n        {\n            \"slug\": \"and-then-there-were-none\"\n        },\n        {\n            \"slug\": \"it\"\n        },\n        {\n            \"slug\": \"to-kill-a-mockingbird-94\"\n        },\n        {\n            \"slug\": \"the-complete-stories-and-poems\"\n        },\n        {\n            \"slug\": \"the-shining\"\n        },\n        {\n            \"slug\": \"the-poisonwood-bible\"\n        },\n        {\n            \"slug\": \"interview-with-the-vampire\"\n        },\n        {\n            \"slug\": \"don-quixote\"\n        },\n        {\n            \"slug\": \"the-old-man-and-the-sea\"\n        },\n        {\n            \"slug\": \"atlas-shrugged\"\n        },\n        {\n            \"slug\": \"the-notebook\"\n        },\n        {\n            \"slug\": \"harry-potter-and-the-goblet-of-fire\"\n        },\n        {\n            \"slug\": \"winnie-the-pooh\"\n        },\n        {\n            \"slug\": \"fahrenheit-451-105\"\n        },\n        {\n            \"slug\": \"moby-dick-or-the-whale\"\n        },\n        {\n            \"slug\": \"a-prayer-for-owen-meany\"\n        },\n        {\n            \"slug\": \"harry-potter-and-the-half-blood-prince\"\n        },\n        {\n            \"slug\": \"clockwork-angel\"\n        },\n        {\n            \"slug\": \"the-secret-life-of-bees\"\n        },\n        {\n            \"slug\": \"the-red-tent\"\n        },\n        {\n            \"slug\": \"the-stranger\"\n        },\n        {\n            \"slug\": \"the-name-of-the-wind\"\n        },\n        {\n            \"slug\": \"harry-potter-and-the-chamber-of-secrets\"\n        },\n        {\n            \"slug\": \"the-master-and-margarita\"\n        },\n        {\n            \"slug\": \"flowers-for-algernon\"\n        },\n        {\n            \"slug\": \"the-metamorphosis\"\n        },\n        {\n            \"slug\": \"middlesex\"\n        },\n        {\n            \"slug\": \"eragon\"\n        },\n        {\n            \"slug\": \"the-adventures-of-tom-sawyer\"\n        },\n        {\n            \"slug\": \"the-alchemist-121\"\n        },\n        {\n            \"slug\": \"charlie-and-the-chocolate-factory\"\n        },\n        {\n            \"slug\": \"looking-for-alaska\"\n        },\n        {\n            \"slug\": \"the-hobbit\"\n        },\n        {\n            \"slug\": \"the-curious-incident-of-the-dog-in-the-night-time\"\n        },\n        {\n            \"slug\": \"the-very-hungry-caterpillar\"\n        },\n        {\n            \"slug\": \"the-shadow-of-the-wind\"\n        },\n        {\n            \"slug\": \"tuesdays-with-morrie\"\n        },\n        {\n            \"slug\": \"the-last-olympian\"\n        },\n        {\n            \"slug\": \"the-count-of-monte-cristo\"\n        },\n        {\n            \"slug\": \"on-the-road\"\n        },\n        {\n            \"slug\": \"the-unbearable-lightness-of-being\"\n        },\n        {\n            \"slug\": \"the-name-of-the-rose\"\n        },\n        {\n            \"slug\": \"the-lion-the-witch-and-the-wardrobe\"\n        },\n        {\n            \"slug\": \"the-godfather\"\n        },\n        {\n            \"slug\": \"where-the-red-fern-grows\"\n        },\n        {\n            \"slug\": \"in-cold-blood\"\n        },\n        {\n            \"slug\": \"the-scarlet-letter\"\n        },\n        {\n            \"slug\": \"holes\"\n        },\n        {\n            \"slug\": \"fight-club\"\n        },\n        {\n            \"slug\": \"perfume-the-story-of-a-murderer\"\n        },\n        {\n            \"slug\": \"the-five-people-you-meet-in-heaven\"\n        },\n        {\n            \"slug\": \"american-gods\"\n        },\n        {\n            \"slug\": \"the-cat-in-the-hat\"\n        },\n        {\n            \"slug\": \"hush-hush\"\n        },\n        {\n            \"slug\": \"the-divine-comedy\"\n        },\n        {\n            \"slug\": \"watchmen\"\n        },\n        {\n            \"slug\": \"lonesome-dove\"\n        },\n        {\n            \"slug\": \"the-little-house-collection\"\n        },\n        {\n            \"slug\": \"all-quiet-on-the-western-front\"\n        },\n        {\n            \"slug\": \"peter-pan\"\n        },\n        {\n            \"slug\": \"good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch\"\n        },\n        {\n            \"slug\": \"the-addiction-manifesto\"\n        },\n        {\n            \"slug\": \"love-in-the-time-of-cholera\"\n        },\n        {\n            \"slug\": \"insurgent\"\n        },\n        {\n            \"slug\": \"a-walk-to-remember\"\n        },\n        {\n            \"slug\": \"the-thorn-birds\"\n        },\n        {\n            \"slug\": \"the-compleat-works-of-wllm-shkspr\"\n        },\n        {\n            \"slug\": \"shadow-kiss\"\n        },\n        {\n            \"slug\": \"the-battle-of-the-labyrinth\"\n        },\n        {\n            \"slug\": \"how-the-grinch-stole-christmas\"\n        },\n        {\n            \"slug\": \"the-ultimate-hitchhikers-guide-to-the-galaxy\"\n        },\n        {\n            \"slug\": \"clockwork-princess\"\n        },\n        {\n            \"slug\": \"their-eyes-were-watching-god\"\n        },\n        {\n            \"slug\": \"the-importance-of-being-earnest\"\n        },\n        {\n            \"slug\": \"the-titans-curse\"\n        },\n        {\n            \"slug\": \"the-wonderful-wizard-of-oz\"\n        },\n        {\n            \"slug\": \"eat-pray-love\"\n        },\n        {\n            \"slug\": \"atonement\"\n        },\n        {\n            \"slug\": \"the-three-musketeers\"\n        },\n        {\n            \"slug\": \"the-sea-of-monsters\"\n        },\n        {\n            \"slug\": \"the-lorax\"\n        },\n        {\n            \"slug\": \"goodnight-moon\"\n        },\n        {\n            \"slug\": \"six-of-crows\"\n        },\n        {\n            \"slug\": \"a-midsummer-nights-dream\"\n        },\n        {\n            \"slug\": \"frostbite\"\n        },\n        {\n            \"slug\": \"the-maze-runner\"\n        },\n        {\n            \"slug\": \"the-haunting-of-hill-house\"\n        },\n        {\n            \"slug\": \"tess-of-the-durbervilles\"\n        },\n        {\n            \"slug\": \"heart-of-darkness\"\n        },\n        {\n            \"slug\": \"the-hunger-games-trilogy-boxset\"\n        },\n        {\n            \"slug\": \"blood-promise\"\n        },\n        {\n            \"slug\": \"the-prophet\"\n        },\n        {\n            \"slug\": \"bridge-to-terabithia\"\n        },\n        {\n            \"slug\": \"the-good-earth\"\n        },\n        {\n            \"slug\": \"catching-fire\"\n        },\n        {\n            \"slug\": \"the-call-of-the-wild\"\n        },\n        {\n            \"slug\": \"alice-in-wonderland\"\n        },\n        {\n            \"slug\": \"the-joy-luck-club\"\n        },\n        {\n            \"slug\": \"throne-of-glass\"\n        },\n        {\n            \"slug\": \"murder-on-the-orient-express\"\n        },\n        {\n            \"slug\": \"the-mists-of-avalon\"\n        },\n        {\n            \"slug\": \"the-phantom-tollbooth\"\n        },\n        {\n            \"slug\": \"oh-the-places-youll-go\"\n        },\n        {\n            \"slug\": \"the-silence-of-the-lambs\"\n        },\n        {\n            \"slug\": \"madame-bovary\"\n        },\n        {\n            \"slug\": \"oliver-twist\"\n        },\n        {\n            \"slug\": \"jonathan-livingston-seagull\"\n        },\n        {\n            \"slug\": \"treasure-island\"\n        },\n        {\n            \"slug\": \"the-neverending-story\"\n        },\n        {\n            \"slug\": \"the-girl-who-played-with-fire\"\n        },\n        {\n            \"slug\": \"ulysses\"\n        },\n        {\n            \"slug\": \"the-night-circus\"\n        },\n        {\n            \"slug\": \"the-selection\"\n        },\n        {\n            \"slug\": \"a-storm-of-swords\"\n        },\n        {\n            \"slug\": \"fifty-shades-of-grey\"\n        },\n        {\n            \"slug\": \"the-secret-history\"\n        },\n        {\n            \"slug\": \"the-boy-in-the-striped-pajamas\"\n        },\n        {\n            \"slug\": \"the-clan-of-the-cave-bear\"\n        },\n        {\n            \"slug\": \"a-farewell-to-arms\"\n        },\n        {\n            \"slug\": \"the-canterbury-tales\"\n        },\n        {\n            \"slug\": \"the-world-according-to-garp\"\n        },\n        {\n            \"slug\": \"jurassic-park\"\n        },\n        {\n            \"slug\": \"beloved\"\n        },\n        {\n            \"slug\": \"misery\"\n        },\n        {\n            \"slug\": \"david-copperfield\"\n        },\n        {\n            \"slug\": \"thirteen-reasons-why\"\n        },\n        {\n            \"slug\": \"a-story-of-yesterday\"\n        },\n        {\n            \"slug\": \"the-diary-of-a-young-girl\"\n        },\n        {\n            \"slug\": \"a-little-princess\"\n        },\n        {\n            \"slug\": \"the-lost-hero\"\n        },\n        {\n            \"slug\": \"a-court-of-mist-and-fury\"\n        },\n        {\n            \"slug\": \"wicked-the-life-and-times-of-the-wicked-witch-of-the-west\"\n        },\n        {\n            \"slug\": \"his-dark-materials\"\n        },\n        {\n            \"slug\": \"the-song-of-achilles\"\n        },\n        {\n            \"slug\": \"shogun\"\n        },\n        {\n            \"slug\": \"schindlers-list\"\n        },\n        {\n            \"slug\": \"the-chain-between-worlds\"\n        },\n        {\n            \"slug\": \"extremely-loud-incredibly-close\"\n        },\n        {\n            \"slug\": \"the-green-mile\"\n        },\n        {\n            \"slug\": \"clockwork-prince\"\n        },\n        {\n            \"slug\": \"the-velveteen-rabbit\"\n        },\n        {\n            \"slug\": \"the-trial\"\n        },\n        {\n            \"slug\": \"the-silmarillion\"\n        },\n        {\n            \"slug\": \"the-other-boleyn-girl\"\n        },\n        {\n            \"slug\": \"the-iliad-the-odyssey\"\n        },\n        {\n            \"slug\": \"fallen\"\n        },\n        {\n            \"slug\": \"cinder\"\n        },\n        {\n            \"slug\": \"last-sacrifice\"\n        },\n        {\n            \"slug\": \"a-confederacy-of-dunces\"\n        },\n        {\n            \"slug\": \"the-sun-also-rises\"\n        },\n        {\n            \"slug\": \"the-secret-magdalene\"\n        },\n        {\n            \"slug\": \"mans-search-for-meaning\"\n        },\n        {\n            \"slug\": \"the-crucible-a-play-in-four-acts\"\n        },\n        {\n            \"slug\": \"cats-cradle\"\n        },\n        {\n            \"slug\": \"city-of-fallen-angels\"\n        },\n        {\n            \"slug\": \"the-screwtape-letters\"\n        },\n        {\n            \"slug\": \"gone-girl\"\n        },\n        {\n            \"slug\": \"spirit-bound\"\n        },\n        {\n            \"slug\": \"the-god-of-small-things\"\n        },\n        {\n            \"slug\": \"a-light-in-the-attic\"\n        },\n        {\n            \"slug\": \"the-wind-in-the-willows\"\n        },\n        {\n            \"slug\": \"the-hiding-place-the-triumphant-true-story-of-corrie-ten-boom\"\n        },\n        {\n            \"slug\": \"howls-moving-castle\"\n        },\n        {\n            \"slug\": \"girl-with-a-pearl-earring\"\n        },\n        {\n            \"slug\": \"the-phantom-of-the-opera\"\n        },\n        {\n            \"slug\": \"blindness\"\n        },\n        {\n            \"slug\": \"uglies\"\n        },\n        {\n            \"slug\": \"the-wind-up-bird-chronicle\"\n        },\n        {\n            \"slug\": \"ella-enchanted\"\n        },\n        {\n            \"slug\": \"a-clash-of-kings\"\n        },\n        {\n            \"slug\": \"shes-come-undone\"\n        },\n        {\n            \"slug\": \"marley-and-me-life-and-love-with-the-worlds-worst-dog\"\n        },\n        {\n            \"slug\": \"shiver\"\n        },\n        {\n            \"slug\": \"the-house-of-the-spirits\"\n        },\n        {\n            \"slug\": \"the-guernsey-literary-and-potato-peel-pie-society\"\n        },\n        {\n            \"slug\": \"the-shack\"\n        },\n        {\n            \"slug\": \"the-sound-and-the-fury\"\n        },\n        {\n            \"slug\": \"fear-and-loathing-in-las-vegas\"\n        },\n        {\n            \"slug\": \"for-whom-the-bell-tolls\"\n        },\n        {\n            \"slug\": \"marked\"\n        },\n        {\n            \"slug\": \"the-complete-calvin-and-hobbes\"\n        },\n        {\n            \"slug\": \"norwegian-wood\"\n        },\n        {\n            \"slug\": \"speak\"\n        },\n        {\n            \"slug\": \"roots-the-saga-of-an-american-family\"\n        },\n        {\n            \"slug\": \"stranger-in-a-strange-land\"\n        },\n        {\n            \"slug\": \"island-of-the-blue-dolphins\"\n        },\n        {\n            \"slug\": \"paper-towns\"\n        },\n        {\n            \"slug\": \"the-girl-who-kicked-the-hornets-nest\"\n        },\n        {\n            \"slug\": \"othello\"\n        },\n        {\n            \"slug\": \"into-the-wild\"\n        },\n        {\n            \"slug\": \"blood-river-a-journey-to-africas-broken-heart\"\n        },\n        {\n            \"slug\": \"kafka-on-the-shore\"\n        },\n        {\n            \"slug\": \"inkheart\"\n        },\n        {\n            \"slug\": \"the-idiot\"\n        },\n        {\n            \"slug\": \"the-seven-husbands-of-evelyn-hugo\"\n        },\n        {\n            \"slug\": \"the-lord-of-the-rings\"\n        },\n        {\n            \"slug\": \"beautiful-disaster\"\n        },\n        {\n            \"slug\": \"delirium\"\n        },\n        {\n            \"slug\": \"mockingjay\"\n        },\n        {\n            \"slug\": \"king-lear\"\n        },\n        {\n            \"slug\": \"white-oleander\"\n        },\n        {\n            \"slug\": \"neverwhere\"\n        },\n        {\n            \"slug\": \"the-complete-sherlock-holmes\"\n        },\n        {\n            \"slug\": \"the-vampire-lestat\"\n        },\n        {\n            \"slug\": \"uncle-toms-cabin\"\n        },\n        {\n            \"slug\": \"invisible-man\"\n        },\n        {\n            \"slug\": \"different-seasons\"\n        },\n        {\n            \"slug\": \"midnight-sun-2008-draft\"\n        },\n        {\n            \"slug\": \"the-once-and-future-king\"\n        }\n    ],\n    \"genres\": [\n        {\n            \"slug\": \"art\"\n        },\n        {\n            \"slug\": \"biography\"\n        },\n        {\n            \"slug\": \"business\"\n        },\n        {\n            \"slug\": \"childrens\"\n        },\n        {\n            \"slug\": \"classics\"\n        },\n        {\n            \"slug\": \"comics\"\n        },\n        {\n            \"slug\": \"contemporary\"\n        },\n        {\n            \"slug\": \"crime\"\n        },\n        {\n            \"slug\": \"ebooks\"\n        },\n        {\n            \"slug\": \"fantasy\"\n        },\n        {\n            \"slug\": \"fiction\"\n        },\n        {\n            \"slug\": \"history\"\n        },\n        {\n            \"slug\": \"horror\"\n        },\n        {\n            \"slug\": \"humor-and-comedy\"\n        },\n        {\n            \"slug\": \"manga\"\n        },\n        {\n            \"slug\": \"memoir\"\n        },\n        {\n            \"slug\": \"music\"\n        },\n        {\n            \"slug\": \"mystery\"\n        },\n        {\n            \"slug\": \"nonfiction\"\n        },\n        {\n            \"slug\": \"paranormal\"\n        },\n        {\n            \"slug\": \"philosophy\"\n        },\n        {\n            \"slug\": \"poetry\"\n        },\n        {\n            \"slug\": \"psychology\"\n        },\n        {\n            \"slug\": \"religion\"\n        },\n        {\n            \"slug\": \"romance\"\n        },\n        {\n            \"slug\": \"science\"\n        },\n        {\n            \"slug\": \"spirituality\"\n        },\n        {\n            \"slug\": \"sports\"\n        },\n        {\n            \"slug\": \"thriller\"\n        },\n        {\n            \"slug\": \"travel\"\n        }\n    ],\n    \"tags\": [\n        {\n            \"slug\": \"love\"\n        },\n        {\n            \"slug\": \"life\"\n        },\n        {\n            \"slug\": \"inspirational\"\n        },\n        {\n            \"slug\": \"humor\"\n        },\n        {\n            \"slug\": \"philosophy\"\n        },\n        {\n            \"slug\": \"god\"\n        },\n        {\n            \"slug\": \"motivation\"\n        },\n        {\n            \"slug\": \"truth\"\n        },\n        {\n            \"slug\": \"wisdom\"\n        },\n        {\n            \"slug\": \"romance\"\n        },\n        {\n            \"slug\": \"poetry\"\n        },\n        {\n            \"slug\": \"death\"\n        },\n        {\n            \"slug\": \"happiness\"\n        },\n        {\n            \"slug\": \"hope\"\n        },\n        {\n            \"slug\": \"faith\"\n        },\n        {\n            \"slug\": \"knowledge\"\n        },\n        {\n            \"slug\": \"inspiration\"\n        },\n        {\n            \"slug\": \"writing\"\n        },\n        {\n            \"slug\": \"motivational\"\n        },\n        {\n            \"slug\": \"religion\"\n        },\n        {\n            \"slug\": \"spirituality\"\n        },\n        {\n            \"slug\": \"relationships\"\n        },\n        {\n            \"slug\": \"success\"\n        },\n        {\n            \"slug\": \"time\"\n        },\n        {\n            \"slug\": \"science\"\n        }\n    ]\n}"
 				}
 			]
+		},
+		{
+			"name": "Log",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{NEXT_SUPABASE_BOOK}}/api/log",
+					"host": [
+						"{{NEXT_SUPABASE_BOOK}}"
+					],
+					"path": [
+						"api",
+						"log"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Log",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{NEXT_SUPABASE_BOOK}}/api/log",
+							"host": [
+								"{{NEXT_SUPABASE_BOOK}}"
+							],
+							"path": [
+								"api",
+								"log"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "access-control-allow-credentials",
+							"value": "true"
+						},
+						{
+							"key": "access-control-allow-origin",
+							"value": "*"
+						},
+						{
+							"key": "access-control-allow-methods",
+							"value": "GET,OPTIONS,PATCH,DELETE,POST,PUT"
+						},
+						{
+							"key": "access-control-allow-headers",
+							"value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "etag",
+							"value": "\"13l1sdq2m9tbr\""
+						},
+						{
+							"key": "vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"key": "date",
+							"value": "Mon, 21 Aug 2023 13:36:06 GMT"
+						},
+						{
+							"key": "content-encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "connection",
+							"value": "close"
+						},
+						{
+							"key": "transfer-encoding",
+							"value": "chunked"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"id\": 1,\n        \"user_id\": 2,\n        \"action\": \"update\",\n        \"table\": \"author\",\n        \"description\": \"user 2 update author 1\",\n        \"created_at\": \"2023-08-10T07:12:52.115038+00:00\",\n        \"book_users\": {\n            \"username\": \"develop\",\n            \"name\": \"Develop\",\n            \"type\": \"admin\"\n        }\n    },\n    {\n        \"id\": 2,\n        \"user_id\": 2,\n        \"action\": \"update\",\n        \"table\": \"author\",\n        \"description\": \"user 2 update author 3\",\n        \"created_at\": \"2023-08-10T07:13:44.621231+00:00\",\n        \"book_users\": {\n            \"username\": \"develop\",\n            \"name\": \"Develop\",\n            \"type\": \"admin\"\n        }\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "All Session",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{NEXT_SUPABASE_BOOK}}/api/session",
+					"host": [
+						"{{NEXT_SUPABASE_BOOK}}"
+					],
+					"path": [
+						"api",
+						"session"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "All Session",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{NEXT_SUPABASE_BOOK}}/api/session",
+							"host": [
+								"{{NEXT_SUPABASE_BOOK}}"
+							],
+							"path": [
+								"api",
+								"session"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "access-control-allow-credentials",
+							"value": "true"
+						},
+						{
+							"key": "access-control-allow-origin",
+							"value": "*"
+						},
+						{
+							"key": "access-control-allow-methods",
+							"value": "GET,OPTIONS,PATCH,DELETE,POST,PUT"
+						},
+						{
+							"key": "access-control-allow-headers",
+							"value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "etag",
+							"value": "\"du81hfg8dh11s\""
+						},
+						{
+							"key": "vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"key": "date",
+							"value": "Mon, 21 Aug 2023 13:44:48 GMT"
+						},
+						{
+							"key": "content-encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "connection",
+							"value": "close"
+						},
+						{
+							"key": "transfer-encoding",
+							"value": "chunked"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"id\": 20,\n        \"user_id\": 2,\n        \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJkZXZlbG9wIiwibmFtZSI6IkRldmVsb3AiLCJ0eXBlIjoiYWRtaW4iLCJpYXQiOjE2OTI2MjUyMTN9.3gthVunSfP2N_45yWWM0XfUoIkJTfWIZuG3PDJDxHNY\",\n        \"created_at\": \"2023-08-21T13:40:13.946263+00:00\",\n        \"book_users\": {\n            \"id\": 2,\n            \"name\": \"Develop\",\n            \"username\": \"develop\",\n            \"password\": \"$2a$08$yXmEzCEa/.JEHqsCrmEJputp.0y.AA30AjaJyhSBwmNZDwR4lIMVq\",\n            \"type\": \"admin\",\n            \"created_at\": \"2023-05-26T10:21:44+00:00\"\n        }\n    },\n    {\n        \"id\": 21,\n        \"user_id\": 1,\n        \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsIm5hbWUiOiJBZG1pbiIsInR5cGUiOiJhZG1pbiIsImlhdCI6MTY5MjYyNTIyMn0.5HpUy6HeRYuo8xyewSHPOS-j95TB-tLdjpApZyKvcrU\",\n        \"created_at\": \"2023-08-21T13:40:22.617196+00:00\",\n        \"book_users\": {\n            \"id\": 1,\n            \"name\": \"Admin\",\n            \"username\": \"admin\",\n            \"password\": \"$2a$08$sfhEzfy0TGSijqBO17OD5OVJEDNgJ//1PpoI3h.TLkVptXM6ZcmeC\",\n            \"type\": \"admin\",\n            \"created_at\": \"2023-05-26T10:21:44+00:00\"\n        }\n    },\n    {\n        \"id\": 22,\n        \"user_id\": 2,\n        \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJkZXZlbG9wIiwibmFtZSI6IkRldmVsb3AiLCJ0eXBlIjoiYWRtaW4iLCJpYXQiOjE2OTI2MjU0NzV9.nr2a_LLyvcgJiwfylGBHxVC_hSGROPsA1dIk2HnUOc8\",\n        \"created_at\": \"2023-08-21T13:44:35.286843+00:00\",\n        \"book_users\": {\n            \"id\": 2,\n            \"name\": \"Develop\",\n            \"username\": \"develop\",\n            \"password\": \"$2a$08$yXmEzCEa/.JEHqsCrmEJputp.0y.AA30AjaJyhSBwmNZDwR4lIMVq\",\n            \"type\": \"admin\",\n            \"created_at\": \"2023-05-26T10:21:44+00:00\"\n        }\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "Delete Session",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{NEXT_SUPABASE_BOOK_TOKEN}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{NEXT_SUPABASE_BOOK}}/api/session?id=22",
+					"host": [
+						"{{NEXT_SUPABASE_BOOK}}"
+					],
+					"path": [
+						"api",
+						"session"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "22"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Delete Session",
+					"originalRequest": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{NEXT_SUPABASE_BOOK}}/api/session?id=22",
+							"host": [
+								"{{NEXT_SUPABASE_BOOK}}"
+							],
+							"path": [
+								"api",
+								"session"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "22"
+								}
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "access-control-allow-credentials",
+							"value": "true"
+						},
+						{
+							"key": "access-control-allow-origin",
+							"value": "*"
+						},
+						{
+							"key": "access-control-allow-methods",
+							"value": "GET,OPTIONS,PATCH,DELETE,POST,PUT"
+						},
+						{
+							"key": "access-control-allow-headers",
+							"value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "etag",
+							"value": "\"p09zsbc6zf10\""
+						},
+						{
+							"key": "vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"key": "date",
+							"value": "Mon, 21 Aug 2023 13:47:36 GMT"
+						},
+						{
+							"key": "content-encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "connection",
+							"value": "close"
+						},
+						{
+							"key": "transfer-encoding",
+							"value": "chunked"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"Success delete session\"\n}"
+				}
+			]
 		}
 	]
 }
